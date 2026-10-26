@@ -1,0 +1,1 @@
+This is a dummy Project text - We're Just learning about git and github 
